@@ -1,9 +1,10 @@
 Privacy Policy
+**Privacy Policy**
 
 Effective Date: 14.09.2025
 Game Title: Bus Jam: Parking Escape Puzzle
 
-Introduction
+**Introduction**
 
 We value your privacy and are committed to protecting your personal information. This Privacy Policy outlines how we handle any data that may be collected while you use our mobile game "Bus Jam: Parking Escape Puzzle".
 
