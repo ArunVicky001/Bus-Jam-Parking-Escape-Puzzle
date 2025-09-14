@@ -1,6 +1,7 @@
 # Privacy Policy
 
 Effective Date: 14.09.2025
+
 Game Title: Bus Jam: Parking Escape Puzzle
 
 ## Introduction
