@@ -1,16 +1,15 @@
-Privacy Policy
-**Privacy Policy**
+# Privacy Policy
 
 Effective Date: 14.09.2025
 Game Title: Bus Jam: Parking Escape Puzzle
 
-**Introduction**
+## Introduction
 
-We value your privacy and are committed to protecting your personal information. This Privacy Policy outlines how we handle any data that may be collected while you use our mobile game "Bus Jam: Parking Escape Puzzle".
+We value your privacy and are committed to protecting your personal information. This Privacy Policy outlines how we handle any data that may be collected while you use our mobile game **Bus Jam: Parking Escape Puzzle**.
 
 By installing and playing the game, you agree to the collection and use of information in accordance with this policy.
 
-Information We Collect
+## Information We Collect
 
 We do not collect any personally identifiable information (PII) such as your name, address, phone number, or email address.
 
@@ -26,7 +25,7 @@ Advertising identifiers (e.g., Android Advertising ID or Apple IDFA) for ad pers
 
 This information is used to improve the game experience, monitor performance, and serve relevant advertisements.
 
-Third-Party Services
+## Third-Party Services
 
 We may use third-party services in our game, which may collect and use information as governed by their respective privacy policies. These include:
 
@@ -50,25 +49,25 @@ Unity Privacy Policy: https://unity.com/legal/privacy-policy
 
 Firebase Privacy Policy: https://firebase.google.com/support/privacy
 
-Children’s Privacy
+## Children’s Privacy
 
 This game is intended for a general audience and does not knowingly collect personal data from children under the age of 13. If we become aware that we have inadvertently collected personal information from a child under 13, we will take steps to delete such information promptly.
 
-Data Retention and Security
+## Data Retention and Security
 
 We do not store personal data on our own servers. Any data collected through third-party services is subject to their data retention and security policies.
 
-Changes to This Privacy Policy
+## Changes to This Privacy Policy
 
 We may update this Privacy Policy from time to time. Any changes will be posted on this page with a revised “Effective Date”. Continued use of the game after changes indicates your consent to the updated policy.
 
-Contact Us
+## Contact Us
 
 If you have any questions or concerns about this Privacy Policy or the game, feel free to contact us at:
 
 Email: kidscareapps@gmail.com
 
-Summary
+## Summary
 
 We do not collect personal information directly.
 
